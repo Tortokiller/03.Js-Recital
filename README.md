@@ -64,5 +64,6 @@ Requires the Web Audio API, Pointer Events, and ES modules — supported in all 
 MIT.
 
 ---
+<div align="center">
 
-Built by [Tortokiller](https://github.com/Tortokiller) · [GetWeb.tech](https://getweb.tech) · companion piece to **CSS Recital**
+⚡ **Built by [GetWeb.tech](https://getweb.tech)** · Professional web design for small businesses · [Tortokiller](https://github.com/Tortokiller) · Barcelona · 2026
